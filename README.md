@@ -330,6 +330,53 @@ https://down.52pojie.cn/Tools/
 
 教程在仓库里：https://github.com/dlgt7/TVbox-interface  PDF文件格式，需下载查看，感觉不清楚的话，文件里写有教程出处，都是公众号文章。
 
+api解释：
+
+csp_XPath           普通套娃
+
+csp_XPathMac        直链套娃    
+
+csp_XPathFilter     普通套娃带筛选
+
+csp_XPathMacFilter  直链套娃带筛选
+
+csp_XPathEgg        蛋蛋赞自定义套娃
+
+************************************************************************************************************************
+
+
+套娃依赖自定义爬虫jar，同样需要在自定义json中加入相应的配置，type=3, api为csp_XPath，套娃相关规则配置在ext字段中，注意：ext字段值只能是字符串
+
+为控制配置文件容量，同时支持在ext字段中直接配置规则和拉取规则的网址。 2021.10.21 by 小黄瓜
+
+接口指定播放器写法示例：
+
+{
+
+"key": "csp_key",
+
+"name": "api(SP)",
+
+"type": 3,
+
+"api": "csp_api",
+
+"playerType": 1, // 新增字段，用来为该爬虫指定播放器 0:system, 1:ijk, 2:exo, 10:mx，11:Reex,12:Kodi.默认-1为配置页面设置的播放器(app/src/main/java/com/github/tvbox/osc/util/PlayerHelper.java...161行)
+
+"searchable": 1,
+
+"quickSearch": 1,
+
+"filterable": 1
+
+},
+
+exo会清晰点。exo不能播阿里系，小苹果。
+
+### 直播文件设置密码：
+
+VIP高清秒播1_0709,#genre#    　　　　密码：0709
+
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/dlgt7/TVbox-interface.svg)](https://starchart.cc/dlgt7/TVbox-interface)
