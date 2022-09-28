@@ -158,25 +158,27 @@ https://github.com/cloudreve/Cloudreve
 
 ## 比较牛逼的仓库：
 
-唐三大佬仓库地址：https://github.com/Tangsan99999/TvJar
+唐三大佬仓库地址：https://github.com/Tangsan99999/TvJar 删库了
 
-巧技大佬仓库地址：https://gitea.com/qiaoji
-
-于俊大佬+唐三大佬+影魔大佬=官仓延续：
+于俊大佬：
 
 https://github.com/q215613905/TVBoxOS
 
-TV猫盒：这个不赖
+takagen99大佬：
+
+https://github.com/takagen99/TVBoxOSC
+
+FongMi-TV:
+
+https://github.com/FongMi/TV
+
+TV猫盒：
 
 https://github.com/kensonmiao/CatVodTVOSC
 
 pluto-player：不开源 A佬。魔改，改动大，功能多，能在线升级，目前不支持低版本安卓。
 
 https://github.com/pluto-player/updates
-
-takagen99：
-
-https://github.com/takagen99/TVBoxOSC
 
 o0HalfLife0o：
 
@@ -187,10 +189,6 @@ https://github.com/o0HalfLife0o/AlphaTV
 clanTV：
 
 https://github.com/clanTV/clanTV
-
-FongMi-TV:
-
-https://github.com/FongMi/TV
 
 BearTV:
 
@@ -204,13 +202,6 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 
 https://github.com/tv-player
 
-近期不能打包的临时解决办法：
-
-https://github.com/dlgt7/TVbox-interface/blob/main/%E8%BF%91%E6%9C%9F%E4%B8%8D%E8%83%BD%E6%89%93%E5%8C%85%E4%B8%B4%E6%97%B6%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md
-
-自己修改代码恢复android_builder打包apk
-
-https://github.com/dlgt7/TVbox-interface/blob/main/%E8%87%AA%E5%B7%B1%E6%94%B9%E4%BB%A3%E7%A0%81%E6%81%A2%E5%A4%8Dandroid_builder%E6%89%93%E5%8C%85apk.MD
 
 ## 常用工具：
 
