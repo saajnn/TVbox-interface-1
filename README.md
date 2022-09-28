@@ -126,11 +126,11 @@ http://www.36nu.com/apiTest
 {"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
 
 
-## 牛人制作网站：版本收集、接口收集、TG群收集，小白有这个网站能躺平了！
+## 牛人制作网站：版本收集、接口收集、TG群收集，小白有这个网站能躺平了！也可以自己微信公众号搜集。
 
-https://maoyingshi.cc/
+云星：https://shou.eruu.cn/
 
-这里边不少接口，自己扒拉一下。
+奇奇：http://bbs.qiqiv.cn/thread-11973-1-1.html
 
 https://github.com/tv-player/TvBox
 
