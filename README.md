@@ -6,7 +6,7 @@
 
 ### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
 
-1、https://gitea.com/
+1、https://gitea.com/  已开始限制，清理
 
 2、https://gitee.com/
 
@@ -20,65 +20,55 @@
 
 7、比邻： https://pan.bilnn.com 收费了，能在线编辑
 
-8、往事、彩虹: https://wp.wangshi520.com/ 不能在线编辑
+8、惜染 https://mpimg.cn/ 不能在线编辑
 
-9、猫猫外链： http://mmwl.88wg.top/ 不能在线编辑
+9、枫铭网盘： https://pan.dkpoi.com 不能编辑
 
-10、惜染 https://mpimg.cn/ 不能在线编辑
+10、https://out.zxglife.top 不能编辑
 
-11、枫铭网盘： https://pan.dkpoi.com 不能编辑
+11、OpenDrive: https://www.opendrive.com/ 能在线编辑，慢
 
-12、https://out.zxglife.top 不能编辑
+12、nite07网盘 https://share.nite07.com
 
-13、https://pan.05kr.com 不能编辑
+13、ifilespace https://demo.ifile.space/main
 
-14、http://tvmvip110.live/
-书源: https://shuyuan.miaogongzi.net/ 不能在线编辑,打不开了。
+14、七彩云存储： https://cloud.06dn.com/login
 
-15、OpenDrive: https://www.opendrive.com/ 能在线编辑，慢
+15、豆子外链： http://zuoye.free.fr/index.php 限制文件格式
 
-16、云星 https://pan.css.lc/ 收费了，能在线编辑
+16、棱束链： https://www.lingshulian.com/
 
-17、nite07网盘 https://share.nite07.com
+17、凯速网https://my.ksust.com
 
-18、ifilespace https://demo.ifile.space/main
+18、乐分发存储：https://pan.leffs.cn/Login
 
-19、七彩云存储： https://cloud.06dn.com/login
+19、https://www.jsdelivr.com/
 
-20、豆子外链： http://zuoye.free.fr/index.php 限制文件格式
+20、恩华云盘：https://pan.ehvip.cn
 
-21、棱束链： https://www.lingshulian.com/
+21、诺灸：https://www.cloudewl.cn
 
-22、可直链下载的免费存储空间：https://my.ksust.com/kstore.htm
+22、https://gitcode.net/explore
 
-23、乐分发存储：https://pan.leffs.cn/Login
+23、吾爱云盘：http://52bsj.vip:81/login
 
-24、https://www.jsdelivr.com/
+24、https://codeberg.org/
 
-25、恩华云盘：https://pan.ehvip.cn
-
-26、诺灸：https://www.cloudewl.cn
-
+25、https://www.notabug.org
 
 ## 短链接制作网址：哪个稳定自己测试。
 
 https://gg.gg 
 
-https://77url.com 
-
-https://qiu.moe     x
+https://qiu.moe
 
 https://www.c1n.cn
-
-http://pesc.pw     x
 
 https://0dlj.cn
 
 https://0a.fit
 
 http://mtw.so
-
-https://app.short.io    x
 
 https://sd4.cn
 
@@ -91,8 +81,6 @@ https://loveer.win
 https://mtool.chinaz.com/dwz
 
 https://waurl.cn
-
-https://tshort.lfabu.com
 
 https://dwz.dk
 
