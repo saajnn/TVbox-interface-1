@@ -190,6 +190,13 @@ https://github.com/CatVodTVOfficial/TVBoxOSC
 
 https://github.com/tv-player
 
+自己动手升级PYthon版本参照下面仓库：里边有操作说明，复制代码，粘贴就行。
+
+https://github.com/dlgt7/PyramidStore
+
+手残的话，用下边这个方法，一键生成，不用自己复制代码。根据自己需要稍稍修改一下子。
+
+https://github.com/lm317379829/TVBoxDIY
 
 ## 常用工具：
 
