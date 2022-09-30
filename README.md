@@ -124,6 +124,9 @@ http://www.36nu.com/apiTest
 
 https://github.com/tv-player/TvBox
 
+## 神人年年有，今年特别多，接口焦虑症的小白看这，自动获取接口。
+
+https://github.com/vpei/Free-TVUrl-Merge
 
 ## TVBox配置编辑器：
 
