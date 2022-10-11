@@ -132,6 +132,8 @@ https://github.com/vpei/Free-TVUrl-Merge
 
 https://kvymin.github.io/CatVodTVJsonEditor/
 
+http://cron.qiqiv.cn/cron/abc/123/
+
 ## 给TVbox站源添加符号:
 
 很多人喜欢给TVbox的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
