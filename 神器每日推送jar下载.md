@@ -11,3 +11,9 @@
 ![3](https://user-images.githubusercontent.com/102397160/190125580-f062def9-0c3e-4681-9d3e-84b38c48b889.png)
 
 ![4](https://user-images.githubusercontent.com/102397160/190125754-6948afba-ad06-44d7-96dd-c4d6ef880669.png)
+
+
+20221016
+
+![神器每日推送jar下载2](https://user-images.githubusercontent.com/102397160/196038711-45f902c4-91c3-4424-8f3d-28030febe7f4.png)
+
